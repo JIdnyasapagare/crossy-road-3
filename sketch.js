@@ -15,7 +15,7 @@ function preload()
 }
 
 function setup() {
-  createCanvas(1366,2700);
+  createCanvas(1366,700);
   carGroup1 = new Group();
   logGroup1 = new Group();
   
